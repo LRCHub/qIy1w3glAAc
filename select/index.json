@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "die die die",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-20T06:43:22.086880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": true,
+      "path": "select/01_Die_Die_Die_Bone_Thugs-n-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "The Avett Brothers",
+      "has_synced": true,
+      "path": "select/02_Die_Die_Die_The_Avett_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "Bone Thugs‐n‐Harmony",
+      "has_synced": true,
+      "path": "select/03_Die_Die_Die_Bone_Thugs‐n‐Harmony.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DIE! DIE! DIE!",
+      "artist": "OmenXiii",
+      "has_synced": true,
+      "path": "select/04_DIE!_DIE!_DIE!_OmenXiii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Die, Die, Die",
+      "artist": "Dr. Dog",
+      "has_synced": true,
+      "path": "select/05_Die,_Die,_Die_Dr._Dog.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "Dr. Dog",
+      "has_synced": true,
+      "path": "select/06_Die_Die_Die_Dr._Dog.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "DAGames",
+      "has_synced": true,
+      "path": "select/07_Die_Die_Die_DAGames.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dai Dai Dai (Die Die Die) (feat. Giancane)",
+      "artist": "Punkreas feat. Giancane",
+      "has_synced": true,
+      "path": "select/08_Dai_Dai_Dai_(Die_Die_Die)_(feat._Giancane)_Punkreas_feat._Giancane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dai dai dai (Die Die Die)",
+      "artist": "Punkreas",
+      "has_synced": true,
+      "path": "select/09_Dai_dai_dai_(Die_Die_Die)_Punkreas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DIE! DIE! DIE!",
+      "artist": "Trade Wind",
+      "has_synced": true,
+      "path": "select/10_DIE!_DIE!_DIE!_Trade_Wind.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "Leæther Strip",
+      "has_synced": false,
+      "path": "select/11_Die_Die_Die_Leæther_Strip.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Die – Die – Die",
+      "artist": "Leæther Strip",
+      "has_synced": false,
+      "path": "select/12_Die_–_Die_–_Die_Leæther_Strip.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "The Avett Brothers",
+      "has_synced": true,
+      "path": "select/13_Die_Die_Die_The_Avett_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Die die die (Antilopen Gang Remix)",
+      "artist": "Love A",
+      "has_synced": false,
+      "path": "select/14_Die_die_die_(Antilopen_Gang_Remix)_Love_A.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Die Die Die",
+      "artist": "DAGames",
+      "has_synced": true,
+      "path": "select/15_Die_Die_Die_DAGames.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "die die die",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_die_die_die_あいみょん.txt"
+    }
+  ]
+}
