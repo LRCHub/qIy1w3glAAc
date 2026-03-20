@@ -1,0 +1,93 @@
+# aimyon – die die die
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.71] Death comes for us all!!
+[00:12.71] 
+[00:24.17] Dark shadows have emerged to take your life
+[00:26.61] I'm the underdog and I've come to fight
+[00:29.26] I regenerate the cells that kept me trapped
+[00:32.78] In an eternal tomb of fright
+[00:35.00] I come back with a score to settle with fate
+[00:37.47] I'm unbreakable so let me set the stakes
+[00:39.70] Once a man with an army
+[00:41.73] Now I'm broken and fallen
+[00:45.41] Let bodies body drop
+[00:46.71] Let bodies body drop
+[00:48.08] Death walks among you
+[00:50.20] Die die die!
+[00:51.85] Can you feel the edge
+[00:53.75] Die die die!
+[00:54.85] Can you feel the bullets from the gun that defies
+[00:57.95] Die die die!
+[00:59.98] I will have my revenge
+[01:01.52] Die die die!
+[01:02.72] Can you dodge by shadow from a far
+[01:05.13] Our lay hand to the
+[01:06.98] King of darkness
+[01:07.83] And slide ride down to hell
+[01:20.00] Slow death is all I can preoccupy
+[01:22.52] I'm the keeper of the payload attack tonight
+[01:25.23] You think you see me but the image
+[01:27.28] That you saw
+[01:28.87] Was a fragment in your mind
+[01:30.45] I come forth to retake my rightful throne
+[01:32.99] I'm the entity of deep and shadow tones
+[01:35.83] Just watch your step and cease the chance
+[01:39.27] Before I take it from your kind!
+[01:41.66] Let bodies body drop
+[01:42.65] Let bodies body drop
+[01:43.93] Death walks among you
+[01:46.35] Die die die!
+[01:47.84] Can you feel the edge
+[01:49.60] Die die die!
+[01:50.36] Can you feel the bullets from the gun that defies
+[01:53.67] Die die die!
+[01:55.91] I will have my revenge
+[01:57.68] Die die die!
+[01:59.05] Can you dodge by shadow from a far
+[02:01.11] Our lay hand to the
+[02:02.83] King of darkness
+[02:03.81] And slide ride down to hell
+[02:06.67] Rise from the shadows
+[02:08.39] Creep from the get go
+[02:10.59] You have stay in my way
+[02:12.39] For far to long
+[02:14.42] Hail to the shotgun
+[02:16.34] Power to the hot runs
+[02:18.88] With adrenaline deepening
+[02:20.45] I command!
+[02:27.04] Ready to die
+[02:27.40] Your souls are mine to defy
+[02:28.69] We reap the devil inside
+[02:29.92] This you will never deny
+[02:31.28] The power deep in my bones
+[02:32.75] Will keep my allies close
+[02:33.82] We have a reason to fight
+[02:35.21] To make you die die die die
+[02:37.52] Ready to die
+[02:38.59] Your souls are mine to defy
+[02:39.18] We reap the devil inside
+[02:40.55] This you will never deny
+[02:41.84] The power deep in my bones
+[02:43.21] Will keep my allies close
+[02:44.75] We have a reason to fight
+[02:46.10] To make you
+[02:46.68] Die die die die die die die die die die die die die die die die die!
+[02:52.26] Let bodies body drop
+[03:00.68] Death walks among you
+[03:02.64] Die die die!
+[03:03.98] Can you feel the edge
+[03:05.52] Die die die!
+[03:06.45] Can you feel the bullets from the gun that defies
+[03:09.26] Die die die!
+[03:11.71] I will have my revenge
+[03:13.55] Die die die!
+[03:14.55] Can you dodge by shadow from a far
+[03:16.73] Our lay hand to the
+[03:18.18] King of darkness
+[03:19.64] And slide ride down to hell
+[03:30.69] (We have a reason to fight to make your die...)
+[03:37.82] Yeahhhh!
+```
